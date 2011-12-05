@@ -1,3 +1,7 @@
+Qt Test Runner - A tiny tool to execute muliple QTestLib application and combine the testing result into a summary report.
+
+License : BSD
+
 A example program to teach how to use the TestRunner class.
 
 Directory:
