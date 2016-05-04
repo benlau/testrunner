@@ -9,9 +9,11 @@ A example program to teach how to use the TestRunner class.
 
 Directory:
 
+```
 runner/		The code integrated with TestRunner. It will run other test
 testa/		Test program A
 testb/		Test program B
+```
 
 Instruction:
 
