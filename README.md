@@ -23,6 +23,8 @@ Instruction:
 
 4. Run the test. You are expected to see:
 
+```
+
 ********* Start testing of TestA *********
 Config: Using QTest library 4.7.2, Qt 4.7.2
 PASS   : TestA::initTestCase()
@@ -42,4 +44,6 @@ Totals: 3 passed, 0 failed, 0 skipped
 FAIL!  : Can not start "../testc/tst_testc" 
 Totals: 6 passed, 2 failed, 0 skipped 
 ********* Finished testing ********* 
+
+```
 
