@@ -1,4 +1,4 @@
-Qt Test Runner - A tiny tool to execute muliple QTestLib application and combine the testing result into a summary report.
+Qt Test Runner - A tiny tool to execute multiple QTestLib application and combine the testing result into a summary report.
 
 
 **This project is not maintained any more. It is replaced by [testable](https://github.com/benlau/testable)**
